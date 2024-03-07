@@ -1,0 +1,16 @@
+.fruit_basket{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
